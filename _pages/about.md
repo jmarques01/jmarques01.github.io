@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on Robot Learning and Recursive Transformers. I am particularly interested in topics such as Model Adaptation, Adaptive Computation, and Efficient Reasoning.
 
-<strong><span style="color:#0b5ed7;">I am always open to discussing new ideas and external collaborations in these or other related topics..</span></strong> Feel free to contact me by email or LinkedIn.
+<strong><span style="color:#0b5ed7;">I am always open to discussing new ideas and external collaborations in these or other related topics.</span></strong> Feel free to contact me by email or LinkedIn.
 
 
 
