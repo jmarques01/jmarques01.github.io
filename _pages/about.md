@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on Robot Learning and Recursive Transformers. I am particularly interested in topics such as Model Adaptation, Adaptive Computation, and Efficient Reasoning.
+I am a second-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on Robot Learning. I am particularly interested in topics such as Model Adaptation, Failure Recovery, and Efficient VLA design.
 
 <strong><span style="color:#0b5ed7;">I am always open to discussing new ideas and external collaborations in these or other related topics.</span></strong> Feel free to contact me by email or LinkedIn.
 
@@ -39,14 +39,15 @@ I am a second-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU)
 
 # 💼 Experience
 
-- *2025.09 - Present*: <strong>Assistant Researcher</strong> <br> Artificial Intelligence and Media Lab, Sungkyunkwan University, South Korea
+- *2025.09 - Present*: <strong>Robotics Research Lead</strong> <br> Artificial Intelligence and Media Lab, Sungkyunkwan University, South Korea
 - *2022.09 - 2025.08*: <strong>Assistant Researcher</strong> <br> Research Centre in Robotics and Underwater Technologies, Jaume I University, Spain
+- *2022.04 - 2024.06*: <strong>Team Leader</strong> <br> Founded the UJI Robotics Team at Jaume I University and led 25 students in robotics competitions. Designed robot interfaces and perception algorithms using Python and C++ with ROS and ROS 2.
 
 # 💡 Projects
-- *2026.03 - Present*: <strong>Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors</strong> <br> Funded by the National Research Foundation of Korea
-- *2025.03 - 2025.08*: <strong>Centauro: </strong> <br> Funded by Spanish Ministry of Science, Innovation and Universities
-- *2024.09 - 2025.08*: <strong>Cooperamos: COOPErative Resident robots for Autonomous ManipulatiOn Subsea</strong> <br> Funded by Spanish Ministry of Science and Innovation
-- *2022.09 - 2025.08*: <strong>H2020-El Peacetolero: El-Peacetolero Embedded Electronic solutions for Polymer Innovative Scanning Tools using Light Emitting devices for diagnostic Routines</strong> <br> Funded by European Comission
+- *2026.03 - Present*: <strong>Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors</strong> <br> Funded by the National Research Foundation of Korea <br> Year 1: Developing a tactile sensor-agnostic encoder.
+- *2025.03 - 2025.08*: <strong>Centauro: </strong> <br> Funded by the Spanish Ministry of Science, Innovation and Universities <br> Evaluated robot navigation algorithms for indoor and outdoor navigation.
+- *2024.09 - 2025.08*: <strong>Cooperamos: COOPErative Resident robots for Autonomous ManipulatiOn Subsea</strong> <br> Funded by the Spanish Ministry of Science and Innovation <br> Developed an image segmentation model for underwater net inspection, trained on synthetic data and adapted through few-shot fine-tuning.
+- *2022.09 - 2025.08*: <strong>H2020-El Peacetolero: El-Peacetolero Embedded Electronic solutions for Polymer Innovative Scanning Tools using Light Emitting devices for diagnostic Routines</strong> <br> Funded by the European Commission <br> Designed a 2D interface for robot teleoperation and testing, conducted navigation trials at Hospital Provincial de Castellón, and developed low-level motor control for the robot.
 
 # 🎖 Honors and Awards
 - *2025.09*: Selected as <strong>a recipient of the Sungkyunkwan University STEM Scholarship</strong>.
